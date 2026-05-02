@@ -5,7 +5,7 @@
 - 📫 How to reach me Contact my Email - Zariuswebdev@gmail.com 
 
 
-View Portfolio with this link here: https://zwebb21.github.io/](https://zwebb21.github.io/Portfolio/
+View Portfolio with this link here: https://zwebb21.github.io/Portfolio/
 <!---
 zwebb21/zwebb21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
